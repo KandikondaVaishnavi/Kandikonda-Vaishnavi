@@ -44,9 +44,9 @@
 
 <hr>
 
-[linkedin]:https://www.linkedin.com/in/jogi-praveen-8a23b2238/
-[twitter]: https://twitter.com/JogiPraveen21
-[YouTube]:https://youtube.com/@user-xy6vl6cz7v?si=pY08gWj9GenR327D
+[linkedin]:https://www.linkedin.com/in/kandikonda-vaishnavi/
+[twitter]: 
+[YouTube]:
 
 
 
